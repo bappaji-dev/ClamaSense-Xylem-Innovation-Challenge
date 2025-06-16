@@ -46,3 +46,10 @@ Line chart of prediction trends by Year
 
 
 5. Download: Save predictions as CSV for reporting or future use.
+
+🟩 TEAM
+The project was achieved by several people in the team which includes:
+1. Abdullahi Hassan (ML developer)
+2. khatija Afroj Bristi (pitch presenter)
+3. Izabella Matos (Docs Writer)
+4. Velery Teresa (Dataset Engineer)
